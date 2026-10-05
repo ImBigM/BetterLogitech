@@ -1,0 +1,3 @@
+# Never let git touch line endings of batch files (they must stay CRLF)
+*.bat -text
+*.cmd -text
